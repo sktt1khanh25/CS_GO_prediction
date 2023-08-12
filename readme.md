@@ -6,5 +6,3 @@
 ## Sau đó chạy từng đoạn code để thu được kết quả thực nghiệm. 
 ## Lưu ý: phần neuron network train khá lâu (~36 phút) nên trong file đã có sẵn file model.h5 chứa các tham số đã được train sẵn, chỉ cần thay đường dẫn chỗ "load model train sẵn" là có thể sử dụng ngay.
 
-
-# CS_GO_prediction
